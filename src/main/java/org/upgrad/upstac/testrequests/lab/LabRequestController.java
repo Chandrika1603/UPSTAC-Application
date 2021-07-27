@@ -80,11 +80,7 @@ public class LabRequestController {
             throw asBadRequest(e.getMessage());
         }
 
-
-
         //throw new ResponseStatusException(HttpStatus.NOT_IMPLEMENTED,"Not implemented"); // replace this line with your code
-
-
     }
 
 
